@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": "1e4f",
+      "name": "sindhu",
+      "dob": "2024-08-02T18:30:00.000Z",
+      "mobile": "0987654321",
+      "role": "user",
+      "department": "Software Development",
+      "email": "s@g",
+      "password": "123456"
+    },
+    {
+      "id": "6c5d",
+      "name": "abhishek",
+      "dob": "2024-08-09T18:30:00.000Z",
+      "mobile": "0987654321",
+      "role": "user",
+      "department": "Software Development",
+      "email": "abhi@gg",
+      "password": "123456"
+    }
+  ],
+  "admin": [
+    {
+      "id": "c28f",
+      "name": "WashimA",
+      "dob": "2001-07-04T18:30:00.000Z",
+      "mobile": "9876543210",
+      "role": "admin",
+      "department": "admin",
+      "email": "washim@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "b505",
+      "name": "ishu",
+      "dob": "2024-08-08T18:30:00.000Z",
+      "mobile": "9876543210",
+      "role": "admin",
+      "department": "admin",
+      "email": "ishu@gmail",
+      "password": "123456"
+    }
+  ]
+}
